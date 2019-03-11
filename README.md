@@ -1,2 +1,5 @@
-# redux-saga-learning
-Toy Project while learning redux-saga &amp; redux-thunk (rewrite https://github.com/lemonzwt/react-demo with react-saga)
+## react-demo
+
+- 1.npm i
+- 2.npm run start
+- 3.http://localhost:3000/
